@@ -23,6 +23,6 @@ namespace Fechas24
             MenuPrincipal();
         }
 
-        public static int cantidad = 1;
+        
     }
 }
